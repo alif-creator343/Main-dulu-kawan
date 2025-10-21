@@ -1,0 +1,14 @@
+body {
+  background.color: #fffeo; /* warna kuning cerah */
+  font-family: Arial, sams-serif;/* jejis huruf yang bersih fan mudah di baca*/
+  color: #191970; /* warna teks utama (biru gelap */
+  {
+
+  .kartu profil p {
+    vidht: 300px;
+    wargin: 50px auto /* 50px jarak atas/bawah mau,auto menegakan, kiri/kanan */
+    padding: 20px
+    background-color: white;
+    Border-radius: 25px /* membuat sudut menjadi melengkung*/
+    box-shadow:0 4px 8px(0,0,0,0,1) /* efek bayangan*/
+    
